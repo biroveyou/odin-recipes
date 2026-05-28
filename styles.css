@@ -11,6 +11,11 @@ body {
     
 }
 
-.button {
-
+.recipe-link {
+    background-color: gold;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    padding: 20px;
 }
