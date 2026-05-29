@@ -8,14 +8,18 @@ html {
 
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    width: 800px;
+    width: 550px;
     margin: 20px auto;
 }
 
 .logo {
     color: orangered;
     font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
     margin-bottom: 40px;
+    display: block;
+
 }
 
 .title {
@@ -28,13 +32,13 @@ body {
     text-align: center;
 }
 
-.recipe .link {
+.link {
     background-color: white;
     color: black;
     font-weight: bold;
     text-decoration: none;
     display: inline-block;
-    padding: 20px;
+    padding: 10px;
     margin: 0 auto;
 }
 
