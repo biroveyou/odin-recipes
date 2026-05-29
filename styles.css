@@ -45,3 +45,11 @@ body {
 .recipe .link:hover {
     color: orangered;
 }
+
+.image-border {
+    background-color: orangered;
+    width: 400px;
+    height: 267px;
+    margin-top: -250px;
+    margin-left: 20px;
+}
